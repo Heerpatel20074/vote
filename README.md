@@ -1,2 +1,2 @@
 # vote
-voting the person once
+voting the person once.
